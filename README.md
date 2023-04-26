@@ -2,6 +2,6 @@
 
 [Atividade 1](https://github.com/rafaelrassis/Analytics-Engineering/blob/main/atividades1/Atividade%2001.ipynb)
 
-[exemplo](https://exemplo.com/)
+[Atividade 2](https://github.com/rafaelrassis/Analytics-Engineering/blob/main/atividades2/Atividade%2002.ipynb)
 
-[exemplo](https://exemplo.com/)
+[Atividade 3](https://github.com/rafaelrassis/Analytics-Engineering/blob/main/atividades3/Atividade%2003.ipynb)
